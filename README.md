@@ -2,11 +2,11 @@
 
 ### Day - 1
 
-Variables
-Data Types
-List
-input()
-split()
-map()
-filter()
-List Comprehension
+- Variables
+- Data Types
+- List
+- input()
+- split()
+- map()
+- filter()
+- List Comprehension
